@@ -1,4 +1,4 @@
-package com.ciaranc.springit.repository;
+package com.ciaranc.springit;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
